@@ -1,4 +1,6 @@
 const sequelize = require('../utils/connection');
+require('../models/Album')
+require('../models')
 
 const main = async() => {
     try{
